@@ -1,3 +1,6 @@
+#Demo 
+ https://github.com/user-attachments/assets/3e0d8d83-6264-440a-b197-6e434d9e6055
+
 # Automatic Car License Plate Detection
 
 This project implements automatic car license plate detection using YOLO v9, and trained on a custom dataset obtained from Kaggle. It utilizes pytesseract for Optical Character Recognition (OCR) to extract license plate numbers from detected plates. The application is deployed using Streamlit for easy user interaction.
